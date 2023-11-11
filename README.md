@@ -1,4 +1,4 @@
-<h2>html makrup</h2>
+<h2>html markup</h2>
 
 로그인&환영인사 문구는 login-text, login-header, ediya-coffee
 이렇게 3번 나누어 묶었습니다.
